@@ -56,23 +56,17 @@ header {
     position: absolute;
     bottom: 10%;
 
-    a {
-        color: $primary;
-        border: 2px outset $primary;
-        background-color: $light;
-    }
 
-    a:hover {
-        color: $light;
-        border: 2px solid $light;
-        background-color: $primary;
-    }
 }
 
 .sophro-picture {
     border-radius: 50%;
     height: 275px;
     width: 275px;
+}
+
+.section-banner {
+    background-color: $grey1;
 }
 
 .card {

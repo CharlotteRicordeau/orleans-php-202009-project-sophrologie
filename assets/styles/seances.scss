@@ -11,6 +11,9 @@
     transform: translateX(-50%)
 }
 
+.section-step {
+    background-color: $grey1;
+}
 
 .price:hover {
     transform: translateY(-15px);
